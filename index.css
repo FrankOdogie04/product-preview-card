@@ -84,8 +84,7 @@ p {
 	line-height: 1.8;
 	font-weight: 500;
 	font-family: "Montserrat";
-	margin: 1rem;
-	
+	margin: 1rem;	
 }
 
 
@@ -105,7 +104,6 @@ img {
 	max-width: 100%;
 }
 
-
 ul  {
 	list-style-type: none;
 	display: flex;
@@ -121,7 +119,6 @@ ul #price {
 ul li:nth-child(2) {
 	color:  hsl(228, 12%, 48%);
 } 
-
 
 .btn {
 	background-color: hsl(158, 36%, 37%);
@@ -146,8 +143,6 @@ ul li:nth-child(2) {
 button img {
 	margin-right: 1rem;
 }
-
-
 
 @media (min-width: 640px) {
 	main {
